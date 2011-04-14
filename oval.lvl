@@ -1,0 +1,8 @@
+name=Circuit
+track=oval.raw
+square_size=10
+sensor_near=2
+sensor_normal=6
+goal_distance_weight=1.8
+goal_bonus=10
+generations=200
